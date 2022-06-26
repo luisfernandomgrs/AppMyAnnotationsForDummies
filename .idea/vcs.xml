@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Activity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AlertsDialog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Alinhamento37" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AppATMNavigationDrawer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AppFloatingActionButton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AppFragments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AppNavigationGuide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AppSnackbar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ApplicationUserPreferencesForDummies" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BasicsComponents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CaraOuCoroa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CardView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DailyPhrases" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ExecutandoVdeos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FuelChoice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LearningEnglishBasic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ListItemToShow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ListView02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Listview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MediaPlayer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Migrate/Aplicativos de Teste/AppNavigationDrawer01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Migrate/Aplicativos de Teste/MigrateFrameworkExamplo02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Migrate/InvoicyFrameworkAndroid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProgressBar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecyclerView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecyclerView_ProjectRevision" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Seekbar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SendDataWithActivity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SorteioProjeto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TipCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ToggleSwitch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/toast" vcs="Git" />
+  </component>
+</project>
